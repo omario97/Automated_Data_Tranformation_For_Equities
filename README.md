@@ -4,3 +4,5 @@ The script does the following:
 - Imports the relevant data
 - Perform multiple transformation and manupulation to get the "right" dataframes
 - Visualization with Plotly
+
+Se the PNG files :)
